@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3477" started-at="2022-11-15T18:57:47Z" finished-at="2022-11-15T18:57:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3477" started-at="2022-11-15T18:57:47Z" finished-at="2022-11-15T18:57:51Z">
+      <class name="Rest_Test.Get_Data">
+        <test-method status="PASS" signature="GetWeatherDetailsCondensed()[pri:0, instance:Rest_Test.Get_Data@60704c]" name="GetWeatherDetailsCondensed" duration-ms="3023" started-at="2022-11-16T00:27:47Z" finished-at="2022-11-16T00:27:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetWeatherDetailsCondensed -->
+        <test-method status="PASS" signature="testResponsecode()[pri:0, instance:Rest_Test.Get_Data@60704c]" name="testResponsecode" duration-ms="414" started-at="2022-11-16T00:27:50Z" finished-at="2022-11-16T00:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponsecode -->
+      </class> <!-- Rest_Test.Get_Data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
