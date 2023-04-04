@@ -1,8 +1,8 @@
 ---
 execution:
 - concurrency: 50
-  hold-for: 3m
-  ramp-up: 2m
+  hold-for: 1s
+  ramp-up: 2s
   
   scenario: Choose Flight
  scenarios:
